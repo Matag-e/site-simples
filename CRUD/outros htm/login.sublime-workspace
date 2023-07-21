@@ -1,0 +1,640 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"connect",
+				"connection_aborted"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bin",
+				"bindValue"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"ad",
+				"addslashes"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"d",
+				"dbpass"
+			],
+			[
+				"db",
+				"dbuser"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"B",
+				"border\tAttr"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"de",
+				"decisao"
+			],
+			[
+				"ano",
+				"anoNascimento"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"modal",
+				"modal-form"
+			],
+			[
+				"fotn-s",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"bacground",
+				"background-color\tproperty"
+			],
+			[
+				"backgroune",
+				"background-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"background-",
+				"background-attachment\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"TE",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ge",
+				"getDay"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"sel",
+				"sel1"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sa",
+				"sagui"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"itens",
+				"itensPedidosVlrTotal"
+			],
+			[
+				"itensPedito",
+				"itensPedidosQuant"
+			],
+			[
+				"it",
+				"itensPedidosVlrUnitario"
+			],
+			[
+				"est",
+				"fk_estoque_produtos1"
+			],
+			[
+				"pr",
+				"produtosNome"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bacgroun",
+				"background-image\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"caixa",
+				"caixa6"
+			],
+			[
+				"c",
+				"compact\tAttr"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"sr",
+				"source\tTag"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"som",
+				"sombraTexto"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"anim",
+				"animation-delay\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/petshop/primeira aula.txt",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/petshop/css/estilo.css",
+		"/C/xampp/htdocs/banco/login.php",
+		"/C/xampp/htdocs/banco/sair.php",
+		"/C/xampp/htdocs/banco/config.php",
+		"/C/xampp/htdocs/banco/index.php",
+		"/C/xampp/htdocs/espanhol/login.php",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/petshop/index.html",
+		"/C/Users/fabio/Desktop/site/CSS/explicaao do grid",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/DSIII/crud com programacao de botoes.class",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/bootstrap/Bem vindo ao meu Site_files/animate.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/css/arcev.css",
+		"/D/login.php",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/TMIII/quizz.java",
+		"/C/xampp/htdocs/PWII/contabancaria/config.php",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/bootstrap.html",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/verificador.php",
+		"/C/xampp/htdocs/PWII/contabancaria/login.php",
+		"/C/Users/fabio/Desktop/CREATE DATABASE projetoEspanhol;",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/mostrarocultar.html",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/ocultaDiv.html",
+		"/C/Users/fabio/Desktop/site/site/estilo.css",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/bootstrap/petshop.html",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/primeira aula.txt",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/bootstrap/jquery.min.js",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/index.php",
+		"/C/Users/fabio/Documents/ETEC/2019/TECNICO/PWII/index2.php",
+		"/C/Users/fabio/Desktop/site/estilo.css",
+		"/C/xampp/htdocs/PWII/contabancaria/add-transacao.php",
+		"/C/Users/fabio/Documents/ETEC/2019/PWI/Logomarca/estilos/logomarca.css",
+		"/C/Users/fabio/Documents/ETEC/2019/PWI/Logomarca/index.html",
+		"/C/xampp/htdocs/PHP/index.php",
+		"/C/xampp/htdocs/PWII/contabancaria/index.php",
+		"/C/xampp/htdocs/PWII/contabancaria/dadoslogin.PNG",
+		"/C/xampp/htdocs/crud/config.php",
+		"/D/PREDIO-1.ALG",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/js/acesso.js",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/css/formulario.css",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/formulario.html",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/javascript.html",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/negado.html",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/index.php",
+		"/C/Users/fabio/AppData/Local/Temp/Rar$DIa15008.11389/login.php",
+		"/C/Users/fabio/AppData/Local/Temp/Rar$DIa15008.10599/login.php",
+		"/C/xampp/htdocs/PWII/contabancaria/login2.php",
+		"/C/Users/fabio/Desktop/index.php",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/login/css/negado.css",
+		"/C/Users/fabio/Desktop/login/formulario.html",
+		"/C/Users/fabio/Desktop/login/css/negado.css",
+		"/C/Users/fabio/Desktop/login/js/acesso.js",
+		"/C/Users/fabio/Desktop/login/index.html",
+		"/C/Users/fabio/Desktop/login/negado.html",
+		"/C/xampp/htdocs/aulaphp/index.php",
+		"/C/xampp/htdocs/aulaphp/config.php",
+		"/C/Users/fabio/Desktop/login/login3.html",
+		"/C/xampp/htdocs/aulaphp/estilo.css",
+		"/C/Users/fabio/Desktop/login/login.html",
+		"/C/Users/fabio/Desktop/login/css/animate.css",
+		"/C/Users/fabio/Desktop/login/css/estilo.css",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/aula01AlertPrompt.html",
+		"/C/Users/fabio/Desktop/js/acesso.js",
+		"/C/xampp/htdocs/PWII/tabela.php",
+		"/C/xampp/htdocs/PWII/index.php",
+		"/C/xampp/htdocs/crud/index.php",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/aula01Confirm.html",
+		"/C/xampp/htdocs/PWII/02Tipos-de-dados.php",
+		"/C/Users/fabio/Documents/ETEC/2019/ETIM/PWI/aula01Alert.html",
+		"/C/Users/fabio/Documents/Logomarca/index.html",
+		"/C/xampp/htdocs/JS/aula02.html",
+		"/C/Users/fabio/Documents/ETEC/2018/PWI/Melhores praticas para criacao de sites",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/centralizar.css",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/centralizar.html",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/bootstrap/Bem vindo ao meu Site.html",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/aula 1 - conceitos de variavel, funcao, array e pseudocodigo",
+		"/C/xampp/htdocs/JS/aula01.js",
+		"/C/xampp/htdocs/JS/aula01.html",
+		"/C/xampp/htdocs/crud/adicionar.php",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/aula 2 - aprofundando variaveis, arrays",
+		"/C/xampp/htdocs/template.html",
+		"/C/xampp/htdocs/alert.php",
+		"/C/Users/fabio/AppData/Local/Temp/Rar$DIa16916.4497/bulma.min.css",
+		"/C/Users/fabio/Documents/ETEC/2019/PWII/model.html",
+		"/C/Users/fabio/AppData/Local/Temp/Rar$DIa6120.15922/creative.css",
+		"/C/Users/fabio/AppData/Local/Temp/Rar$DIa6120.16128/creative.min.css",
+		"/C/Users/fabio/Desktop/login/css/apple.css",
+		"/C/Users/fabio/Desktop/login/login2.html",
+		"/C/Users/fabio/Desktop/login/css/login2.css",
+		"/C/Users/fabio/Documents/Site/httpdocs/downloads.php",
+		"/C/Users/fabio/Desktop/login/javascript.html",
+		"/C/Users/fabio/Desktop/Arc Evolution/negadoapple.html",
+		"/D/ETEC/responsivo.css",
+		"/C/Users/fabio/Desktop/rayssa/blocoa.html",
+		"/C/xampp/htdocs/rayssa/blocoa.php",
+		"/C/xampp/htdocs/tcc rayssa/estilo.css",
+		"/C/Users/fabio/Desktop/rayssa/conecta.php",
+		"/C/xampp/htdocs/rayssa/Form2.php",
+		"/C/Users/fabio/Desktop/login/negadoapple.html",
+		"/C/xampp/htdocs/rayssa/estilos.css",
+		"/C/xampp/htdocs/rayssa/css/estilos.css",
+		"/C/Users/fabio/Desktop/rayssa/Form.html",
+		"/C/Users/fabio/Desktop/Arc Evolution/css/arcev.css",
+		"/C/Users/fabio/Desktop/Arc Evolution/newarc.html",
+		"/C/Users/fabio/Desktop/Arc Evolution/js/acesso.js",
+		"/C/xampp/htdocs/tcc rayssa/Blocos.php",
+		"/D/Arc Evolution/js/acesso.js",
+		"/D/Arc Evolution/arc.html",
+		"/C/xampp/htdocs/tcc rayssa/config.php",
+		"/C/xampp/htdocs/tcc rayssa/conecta.php",
+		"/C/xampp/htdocs/tcc rayssa/Blocoa.php",
+		"/C/xampp/htdocs/tcc rayssa/blocosteste.php",
+		"/C/Users/fabio/Desktop/teste.html",
+		"/C/Users/fabio/Desktop/teste.js",
+		"/C/Users/fabio/Desktop/login/apple.html",
+		"/C/xampp/htdocs/tcc rayssa/index.php",
+		"/C/xampp/htdocs/tcc rayssa/Blocod.php",
+		"/E/TCC/Crud teste definitivo/Dados.php",
+		"/C/xampp/htdocs/tcc rayssa/conexao.php",
+		"/C/xampp/htdocs/tcc rayssa/teste.php",
+		"/C/xampp/htdocs/tcc rayssa/processa.php",
+		"/C/xampp/htdocs/tcc rayssa/login.php",
+		"/C/Users/fabio/Desktop/login/acesso.html",
+		"/C/Users/fabio/Desktop/login/acesso.js",
+		"/C/Users/fabio/Desktop/login/css/login3.css",
+		"/C/Users/fabio/Desktop/login/css/estilo2.css",
+		"/C/Users/fabio/Desktop/login/css/login.css",
+		"/C/Users/fabio/Desktop/Fabio/Crud teste definitivo/Bloco A.php",
+		"/C/Users/fabio/Desktop/Fabio/Crud teste definitivo/Bloco A.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

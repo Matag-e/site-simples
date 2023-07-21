@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="js/acesso.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/login3.css">
+	<title>Login 3</title>
+	
+</head>
+<body>	
+	<div class = "topo">	
+		<div class = "data verde" >
+			<script>
+				var data  = new Date()
+				var dias  = data.getDay()
+				var mes  = data.getMonth()
+				var ano   = data.getFullYear()
+				var meses = new Array('Janeiro','Fevereiro','Marco','Abril','Maio','Junho','Julho',
+								  'Agosto','Setembro','Outubro','Novembro','Dezembro');
+				var diaSemana = new Array(
+						'Domingo','Segunda Feira','Terça Feira','Quarta Feira','Quinta Feira','Sexta Feira','Sábado');
+				var hoje = data.getDate();
+				var hora = data.getHours();
+				var min  = data.getMinutes();
+				var sec  = data.getSeconds(); 
+				var strHora = hora + ':' + min + ':' + sec;
+				var strData  = diaSemana[dias] + ", " + hoje		 + " de " + meses[mes] + " de " + ano + ", " + strHora
+				document.write(strData)
+			</script>	
+		</div>
+		<spam class="fonte">Logomarca
+	</div>	
+	<div class="centraliza">
+		<div class = "formulario interna ">
+			<form class="form">
+				login <input type="text" name="nome"><br><br>
+				senha <input type="password" name="senha"><br><br>
+				<p><a href="forgotpass.html" class="esqueceu">Esqueceu a senha?</a></p>
+				<input type="button" name="botao" value="Enviar" class = "centralizaBotao" onclick="acesso(this.form)">
+			</form>
+		</div>
+	</div>
+</body>
+</html>

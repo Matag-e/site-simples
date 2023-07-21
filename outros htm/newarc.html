@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<!-- <meta http-equiv="10">  -->
+		<script src="js/acesso.js"></script>
+		<title>Arc Login Form</title>
+		<link rel="stylesheet" href="css/arcev.css">
+	</head>
+	<body>
+	<!-- data hora -->
+			<div class="data">
+				<script>
+					var data  = new Date()
+					var dias  = data.getDay()
+					var mes   = data.getMonth()
+					var ano   = data.getFullYear()
+					var meses = new Array('Janeiro','Fevereiro','Marco', 'Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro')
+					var diaSemana = new Array('Domingo', 'Segunda','Terca','Quarta','Quinta','Sexta','Sabado')
+					var hoje = data.getDate()
+					var hora = data.getHours()
+					var min  = data.getMinutes()
+					var sec  = data.getSeconds()
+					var strHora = hora + ':' + min + ':' + sec
+					var strData = diaSemana[dias] + ', ' + hoje + ' de ' + meses[mes] + ' de ' + ano
+					document.write(strData + ', ' + strHora)
+				</script>
+			</div>
+	<!-- inicio de formtransparent -->
+	<div class="login-box" > 
+		<img src="imagens/logo.jpg.png" class="logo">
+			<h1>Login Arc</h1>
+			<!-- fim form transparent -->
+
+				<form name = 'form' class="box">
+						<input type="text" name="nome" placeholder="Arc ID"><br><br>
+						<input type="password" name="senha" placeholder="Password"><br><br>
+						<a href="#">Forget Password</a>
+				<input type="button" name="botao" value="Enviar" class = "centralizaBotao" onclick="acesso(this.form)">
+	</div>
+    <div class="rodape">
+		&copy Arc Evolution Corporation 
+	</div>	
+
+	</body>
+</html>

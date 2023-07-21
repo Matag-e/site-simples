@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+	<script src = "acesso.js">
+		
+	</script>
+	<style type="text/css">
+		.logo{
+			margin: auto;
+			width :260px;
+		}
+		.logo img{
+			width: 100%;
+			margin-top:20px;
+		}
+
+		body{
+			background-color: #f5f5f5;
+		}	
+		.central{
+			margin: auto;
+			box-shadow: 5px 1px 3px rgb(210 210 210);
+			width: 300px;
+			background-color: #ffffff;
+			border-radius: 3px;
+			text-align: center
+		}
+		.central p{
+			font-size: 12px;
+			color: #66615d; 
+			text-align: center		
+		}
+		
+		.central input{
+			background-color: #e2e2e2;
+			height: 40px;
+			width: 90%;
+			border-radius: 5px;
+			margin: 10px;
+		}
+		.btn{
+			color :#ffffff;
+			font-size: 16px
+		}
+		.verde{
+			background: #00ff00;
+		}
+		
+	</style>
+	
+</head>
+<body>
+	<script>
+	function Logar(){
+		var done = 0;
+		var x = document.login.nome.value;
+		var y = document.login.senha.value
+		
+		if (x =="Fabio" && y =="123"){
+				location = "http://www.google.com.br"
+			}else{
+				alert("Nome de usuario ou senha invalidos!");
+			}
+		}
+	
+</script>
+	<div class = "logo">
+		<img src="logo.png">		
+	</div>
+
+	<div class = "central">
+		<h1>Fazer Login</h1>
+		<p >Não possui uma conta? <a href="#">Matricule-se</a></p>
+		<form>
+			<input type="text" name="nome" placeholder="CPF ou E-mail">
+			<input type="text" name="senha" placeholder="Informe sua senha">
+			<input type="submit" value ="FAZER LOGIN" class="btn" style="background-color: #55cf89" onclick="acesso(this.form)" >
+
+		</form>
+	</div>
+</body>
+
+</html>

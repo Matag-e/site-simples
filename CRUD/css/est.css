@@ -1,0 +1,59 @@
+*{
+	font-family: arial;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #CECECE;
+}
+.topo{
+	height: 100px;
+	background-color: #1E1C1B;
+	color: white;
+}
+
+.logomarca{
+	float: left;
+	font-size: 24px;
+	line-height: 50px;
+	text-shadow: #696969 1px 2px 1px;
+	padding-left: 30px;
+	padding-top: 25px;
+}
+
+.login{
+	float:right;
+}
+.logobtn{
+	margin: 50px;
+	background-color: #3E1111;
+	color: white;
+	border: 1px solid;
+	box-shadow: #696969 2px 3px 2px;
+	height: 30px;
+}
+
+.logotxt{
+	width:40%;
+	color: #2e8b57;
+	padding: 10px;
+	margin: auto;
+	box-sizing: border-box;
+	font-size: 20px;
+	border: 0px solid;
+	border-radius: 5px;
+	box-shadow: #696969 2px 3px 2px;
+}
+.logopsw{
+	margin: auto;
+	font-size: 20px;
+	width: 20%;
+	padding: 10px 20px;
+	color: #2e8b57;
+	box-sizing: border-box;
+	border: 0px solid;
+	border-radius: 5px;
+	box-shadow: #696969 2px 3px 2px;
+}
+
